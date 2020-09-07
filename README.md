@@ -1,2 +1,2 @@
 # endlessrunner
-An endless runner designed with unity to teach recycling garbage.
+An endless runner game designed with unity to teach recycling garbage.
